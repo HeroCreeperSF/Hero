@@ -1,2 +1,0 @@
-# Hero
-Just a derp
